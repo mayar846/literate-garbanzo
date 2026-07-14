@@ -16,6 +16,8 @@ cosine similarity matching) runs client-side in the browser.
 ## Run it
 Just open `index.html` in any browser — no build step required.
 
+**Live demo:**[ https://mayar846.github.io/language-translator-web-/](https://mayar846.github.io/literate-garbanzo/)
+
 ## Deploy for free
 Push this folder to a GitHub repo and enable **GitHub Pages** (Settings →
 Pages → Branch: main) to get a public link instantly.
